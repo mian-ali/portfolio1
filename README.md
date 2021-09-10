@@ -9,19 +9,23 @@
 * Include a photo of yourself. ...
 * Proofread and edit.
 
-## Technologies Used:
+### `Technologies Used:`
 
 * HTML5
 * CSS3
 * JavaScript
 
-## Silent Features:
+### `Silent Features:`
 
 * Responsive Design.
 * Portfolio Template.
 * Unique and Dynamic Design.
 * Contains HOME, ABOUT, SERVICES,CONTACT  and many other sections.
 
-## Project Preview:
+
+[Click the Button View Project Demo Live](https://mian-ali.github.io/portfolio1/)
+
+
+### `Project Broswer URL`
 
 (https://mian-ali.github.io/portfolio1/)
